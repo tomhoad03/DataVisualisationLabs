@@ -1,0 +1,17 @@
+p {
+    font-size: 2em;
+    color: blue; /* You need to use the American spelling - no "u" in color! */
+}
+
+.special { /* Notice the "." at the start; this means it is acting on a class */
+    font-size: 2em;
+    color: red;
+}
+
+#link:link {
+    color: green;
+}
+
+#link:visited {
+    color: deeppink;
+}
